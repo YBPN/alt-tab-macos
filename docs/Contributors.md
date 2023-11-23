@@ -27,8 +27,9 @@ They helped [develop the app](https://github.com/lwouis/alt-tab-macos/graphs/con
 * [ryenus](https://github.com/ryenus)
 * [s4na](https://github.com/s4na)
 * [samdenty](https://github.com/samdenty)
-* [shaqed](https://github.com/shaqed)
+* [skolj](https://github.com/skolj)
 * [xanathar](https://github.com/xanathar)
+* [xconverge](https://github.com/xconverge)
 * [zacharee](https://github.com/zacharee)
 
 They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
@@ -44,12 +45,14 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Ali. tas103
 * Allen Guan
 * Ameng
+* Andrew Vader
 * Anurag Roy
 * anushree b
 * Arman
 * Arthur
 * Ash
 * blanorama
+* bluefirex
 * bovirus
 * caduellery
 * Caner İlhan
@@ -61,9 +64,11 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Darko
 * David R
 * Didier Deschrijver
+* Dzhuneyt
 * EDUARDO
 * edu_sombra
 * Eliezer Shpigelman
+* Emil Pedersen
 * Eric WANTZ
 * Ersagun Kuruca
 * Eukarya
@@ -85,6 +90,7 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Hokuto Kato
 * Huandngoc
 * Ialiendeg
+* Igor Aradski
 * Indexerrowaty
 * isametry
 * Ismatulla
@@ -108,6 +114,7 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Kinyagulovrr
 * Klara
 * Kushnee5
+* Lakshman Kolappan
 * Lcwhhh
 * Lester
 * Loïc 
@@ -152,8 +159,10 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Razvan
 * rbnis
 * Roccobot
+* Ron Nuss
 * sawtooth
 * Selcuk Dursun
+* Sergey
 * Seyedparsa Mirtaheri
 * Shameem Reza
 * SheNeVmerla
@@ -163,14 +172,13 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * stas
 * Stefan
 * Svetoslav Stefanov
-* test
 * Thomas Wölk
-* Thomas Zander
 * Thorsten
 * Tomoa Nozawa
 * Umutakkaya1996
 * Vadym
 * Vegard
+* Vijayant Saini
 * Vincent Orback
 * Vlad
 * Webmaster
@@ -178,11 +186,12 @@ They helped [localize the app](https://poeditor.com/join/project/8AOEZ0eAZE):
 * Whatsmine-HaoshuaiXu
 * Wilhelm Wolfgang Gärtner
 * Wowpapa3232
-* Yamada Keisuke
 * Yash
 * Yossi Zahn
 * ysaito
 * Yukai
 * yumechan
 * Yusuf Caliskan
+* 橙梓
 * Ивайло
+* Андрій Кирбаба
